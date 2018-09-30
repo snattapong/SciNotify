@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SciNotify</string>
+    <string name="it_subscribed">IT Subscribed</string>
+    <string name="it_un_subscribed">IT UnSubscribed</string>
+    <string name="asset_subscribed">Asset Subscribed</string>
+    <string name="asset_un_subscribed">Asset UnSubscribed</string>
+</resources>

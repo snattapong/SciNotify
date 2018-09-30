@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "273885825960",
+    "firebase_url": "https://scinotify-9926e.firebaseio.com",
+    "project_id": "scinotify-9926e",
+    "storage_bucket": "scinotify-9926e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273885825960:android:e15e0497360f6e9d",
+        "android_client_info": {
+          "package_name": "sci.ubu.ac.th.scinotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273885825960-0vghv5tdk3r8okj93j49744s8fro74pr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sci.ubu.ac.th.scinotify",
+            "certificate_hash": "f7cfa7565a05bacc9d68184e64c513af54500e88"
+          }
+        },
+        {
+          "client_id": "273885825960-n9iqhtd6rl4t5mdqmk7qg5ns14idtlvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtIA5nNvovzBBBUSDbBRRPIli8z7VGePI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273885825960-n9iqhtd6rl4t5mdqmk7qg5ns14idtlvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
