@@ -17,6 +17,7 @@ public class Main extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //mTextView = findViewById(R.id.msgText);
+        FirebaseMessaging.getInstance().subscribeToTopic("repair_it");
     }
     public void showToken(View view) {
         // แสดง token มาให้ดูหน่อยเสะ
